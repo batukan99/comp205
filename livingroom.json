@@ -1,0 +1,90 @@
+[
+  {
+    "index": 1,
+    "title": "Orion",
+    "url": "https://www.kelebek.com/corner-sets",
+    "url_uid": 1,
+    "price": 2990,
+    "timestamp": 1608418124729,
+    "uid": "1QdSzd4O4qhBwSW21ueq",
+    "image": "https://www.kelebek.com/images/thumbs/0008910_orion-kose-takimi_550.jpeg",
+    "title_link": "https://www.kelebek.com/orion-kose-takimi"
+  },
+  {
+    "url": "https://www.kelebek.com/corner-sets",
+    "url_uid": 1,
+    "title_link": "https://www.kelebek.com/ilia-k%C3%B6%C5%9Fe-tak%C4%B1m%C4%B1",
+    "image": "https://www.kelebek.com/images/thumbs/0009960_ilia-kose-takimi_550.png",
+    "title": "Ilia",
+    "price": 6295,
+    "index": 5,
+    "timestamp": 1608418124729,
+    "uid": "67npmY0fRqniFeVZIuMO"
+  },
+  {
+    "uid": "8wC3Iy6Gk6rbF59uMcNv",
+    "image": "https://www.kelebek.com/images/thumbs/0009792_marino-kose-takimi_550.jpeg",
+    "timestamp": 1608418124729,
+    "url_uid": 1,
+    "price": 4875,
+    "title": "Marino",
+    "url": "https://www.kelebek.com/corner-sets",
+    "title_link": "https://www.kelebek.com/marino-kose-takimi",
+    "index": 3
+  },
+  {
+    "uid": "FRgHYrwPXA6LWzj0hK7K",
+    "index": 4,
+    "timestamp": 1608418124729,
+    "url": "https://www.kelebek.com/corner-sets",
+    "url_uid": 1,
+    "image": "https://www.kelebek.com/images/thumbs/0013353_minolia-kose-takimi_550.jpeg",
+    "price": 5350,
+    "title": "Minolia",
+    "title_link": "https://www.kelebek.com/minolia-kose-takimi"
+  },
+  {
+    "price": 3350,
+    "title_link": "https://www.kelebek.com/dia-k%C3%B6%C5%9Fe-tak%C4%B1m%C4%B1",
+    "timestamp": 1608418124729,
+    "url_uid": 1,
+    "title": "Dia",
+    "url": "https://www.kelebek.com/corner-sets",
+    "index": 2,
+    "image": "https://www.kelebek.com/images/thumbs/0006297_dia-kose-takimi_550.jpeg",
+    "uid": "IPoUuegsakHAfJLgrS9m"
+  },
+  {
+    "title": "Volgen",
+    "uid": "LRDpIUdhmx95naFxecQM",
+    "index": 7,
+    "price": 6595,
+    "image": "https://www.kelebek.com/images/thumbs/0008961_volgen-kose-takimi_550.jpeg",
+    "url": "https://www.kelebek.com/corner-sets",
+    "title_link": "https://www.kelebek.com/volgen-kose-takimi",
+    "url_uid": 1,
+    "timestamp": 1608418124729
+  },
+  {
+    "title_link": "https://www.kelebek.com/cornelli-kose-takimi",
+    "uid": "as2JVFoWHlH7Uuki7moT",
+    "index": 6,
+    "url_uid": 1,
+    "timestamp": 1608418124729,
+    "image": "https://www.kelebek.com/images/thumbs/0010279_cornelli-kose-takimi_550.jpeg",
+    "url": "https://www.kelebek.com/corner-sets",
+    "price": 6490,
+    "title": "Cornelli"
+  },
+  {
+    "price": 7295,
+    "image": "https://www.kelebek.com/images/thumbs/0002935_zelica-kose-takimi_550.jpeg",
+    "uid": "uwjOTC9iSSyrZLrH6ifR",
+    "index": 8,
+    "url_uid": 1,
+    "title": "Zelica",
+    "title_link": "https://www.kelebek.com/zelica-kose-takimi",
+    "url": "https://www.kelebek.com/corner-sets",
+    "timestamp": 1608418124729
+  }
+]
