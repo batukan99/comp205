@@ -1,0 +1,66 @@
+[
+  {
+    "image": "https://www.kelebek.com/images/thumbs/0000401_cara-yemek-odasi-takimi-beyaz_550.jpeg",
+    "index": 1,
+    "price": 4315,
+    "timestamp": 1608486109049,
+    "title": "Cara",
+    "title_link": "https://www.kelebek.com/cara-yemek-odasi-takimi-beyaz",
+    "uid": "I6fLkcXQsi6g2fmOT3Zn",
+    "url": "https://www.kelebek.com/dining-sets",
+    "url_uid": 1
+  },
+  {
+    "image": "https://www.kelebek.com/images/thumbs/0008309_levana-yemek-odasi-takimi_550.jpeg",
+    "index": 2,
+    "price": 4390,
+    "timestamp": 1608486109049,
+    "title": "Levana",
+    "title_link": "https://www.kelebek.com/levana-yemek-odasi-takimi",
+    "uid": "7OX0vat5dGEeIy5sDejw",
+    "url": "https://www.kelebek.com/dining-sets",
+    "url_uid": 1
+  },
+  {
+    "image": "https://www.kelebek.com/images/thumbs/0012573_cara-yatak-odasi-takimi-amalfi-ceviz_550.jpeg",
+    "index": 3,
+    "price": 7740,
+    "timestamp": 1608487292016,
+    "title": "Cara",
+    "title_link": "https://www.kelebek.com/cara-yatak-odasi-takimi-amalfi-ceviz",
+    "uid": "ErPEUcR4Sf2H4tMMs4tA",
+    "url": "https://www.kelebek.com/bedroom-sets",
+    "url_uid": 1
+  },
+  {
+    "image": "https://www.kelebek.com/images/thumbs/0009762_4934-masif-ayakli-papel-sandalye-ahr4b_550.jpeg",
+    "index": 4,
+    "price": 370,
+    "timestamp": 1608492561937,
+    "title": "4934",
+    "title_link": "https://www.kelebek.com/4934-masif-ayakli-papel-sandalye-ahr4b",
+    "uid": "GGOCkgQEVT9YHEYL5h8P",
+    "url": "https://www.kelebek.com/search?q=SANDALYE&adv=true&cid=0&mid=0&adv=false&adv=false&isc=false&isc=false&sid=false&sid=false",
+    "url_uid": 1
+  },
+  {
+    "image": "https://www.kelebek.com/images/thumbs/0010196_serenity-yan-sehpa-orta_550.jpeg",
+    "index": 5,
+    "price": 485,
+    "timestamp": 1608492878123,
+    "title": "Serenity",
+    "uid": "GWqaDXA9p2IZRFLzo5e4",
+    "url": "https://www.kelebek.com/sehpalar",
+    "url_uid": 1
+  },
+  {
+    "image": "https://www.kelebek.com/images/thumbs/0008750_levana-zigon-sehpa-mermersedef-krem_550.jpeg",
+    "index": 6,
+    "price": 490,
+    "timestamp": 1608492878123,
+    "title": "Levana",
+    "uid": "6nTam5S05pjjiqGkQBWj",
+    "url": "https://www.kelebek.com/sehpalar",
+    "url_uid": 1
+  },
+]
