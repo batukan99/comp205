@@ -1,0 +1,57 @@
+[
+  {
+    "image": "https://statickelebek.mncdn.com/images/thumbs/0013723_eva-genc-odasi_550.jpeg",
+    "index": 1,
+    "price": 4795,
+    "timestamp": 1611561842803,
+    "title": "Eva",
+    "title_link": "https://www.kelebek.com/eva",
+    "uid": "cFlXqClCLu59VfUZmnGv",
+    "url": "https://www.kelebek.com/genc-odasi",
+    "url_uid": 1
+  },
+  {
+    "image": "https://statickelebek.mncdn.com/images/thumbs/0013908_nordic-yatak-odasi-takimi_550.jpeg",
+    "index": 2,
+    "price": 8790,
+    "timestamp": 1611562048831,
+    "title": "Nordic",
+    "title_link": "https://www.kelebek.com/nordic-yatak-odasi-takimi",
+    "uid": "Hzi0lN2LNQSn3eBBbNlh",
+    "url": "https://www.kelebek.com/yatak-odasi-takimlari",
+    "url_uid": 1
+  },
+  {
+    "image": "https://statickelebek.mncdn.com/images/thumbs/0006904_camilia-yatak-odasi-takimi_550.jpeg",
+    "index": 3,
+    "price": 9765,
+    "timestamp": 1611562048831,
+    "title": "Camilia",
+    "title_link": "https://www.kelebek.com/camilia-yatak-odas%C4%B1-tak%C4%B1m%C4%B1",
+    "uid": "H08yypH5AGliHuO6Eptf",
+    "url": "https://www.kelebek.com/yatak-odasi-takimlari",
+    "url_uid": 1
+  },
+  {
+    "image": "https://statickelebek.mncdn.com/images/thumbs/0001209_angelic-yatak-odasi-takimi_550.jpeg",
+    "index": 4,
+    "price": 12995,
+    "timestamp": 1611562048831,
+    "title": "Angelic",
+    "title_link": "https://www.kelebek.com/angelic-yatak-odasi-takimi",
+    "uid": "aQMLUKIUhRQpo6TrUFTq",
+    "url": "https://www.kelebek.com/yatak-odasi-takimlari",
+    "url_uid": 1
+  },
+  {
+    "image": "https://statickelebek.mncdn.com/images/thumbs/0012414_angelic-dark-yatak-odasi-takimi_550.jpeg",
+    "index": 5,
+    "price": 14185,
+    "timestamp": 1611562048831,
+    "title": "Angelic Dark",
+    "title_link": "https://www.kelebek.com/angelic-dark-yatak-odasi-takimi",
+    "uid": "E9azGWPK76rTtwtNfLYP",
+    "url": "https://www.kelebek.com/yatak-odasi-takimlari",
+    "url_uid": 1
+  }
+]
